@@ -1,0 +1,48 @@
+name: "Laura Capo"
+contact:7837357522 
+  city: "Miami-Fortlauderdale area"
+  state: "FL"
+  mail: "laurairene785@gmail.com"
+objective:
+  Detail-oriented and experienced Quality Assurance Engineer with a background in Computer Science from Universidad de Pinar del Rio, Cuba. Dedicated to ensuring the highest standards of software quality, with four years of practical experience in development fields since 2020. Adept at implementing testing strategies, identifying bugs, and collaborating with development teams to deliver robust and flawless software solutions.
+education:
+  degree: "Bachelor of Science in Computer Science"
+  university: "Universidad de Pinar del Rio, Cuba"
+  graduation_year: "[Year]"
+skills:
+  - "Proficient in manual and automated testing methodologies"
+  - "Strong understanding of software development lifecycle (SDLC) and agile methodologies"
+  - "Skilled in writing clear, concise, and comprehensive test plans and test cases"
+  - "Experience with testing tools such as Selenium, JUnit, and TestNG"
+  - "Ability to identify, isolate, and track software defects"
+  - "Excellent communication skills, both verbal and written, for effective collaboration with cross-functional teams"
+  - "Familiarity with programming languages including Java, Python, and SQL"
+  - "Detail-oriented with a strong focus on quality assurance and process improvement"
+work_experience:
+  - title: "Quality Assurance Engineer"
+    company: "IntelePeer"
+    location: "Dania Beach FL "   
+    responsibilities:
+      - "Collaborated with software development teams to define testing requirements and develop comprehensive test plans for web and mobile applications."
+      - "Conducted manual and automated testing to identify software defects, ensure functionality, and improve user experience."
+      - "Developed and maintained automated test scripts using Selenium WebDriver and TestNG, resulting in a 30% reduction in testing time."
+      - "Investigated and documented software defects, providing detailed reports to developers for prompt resolution."
+      - "Participated in daily stand-ups, sprint planning, and retrospective meetings to ensure alignment between QA and development teams."
+      - "Worked closely with product owners and stakeholders to understand project requirements and validate acceptance criteria."
+  - title: "Software Developer"
+    company: "Klinklin"
+    location: "Remote"
+    start_date: "06/2022"
+    end_date: "02/2023"
+    responsibilities:
+      - "Contributed to the design, development, and maintenance of web-based applications using Java, JavaScript, HTML, and CSS."
+      - "Implemented new features and functionalities, ensuring adherence to coding standards and best practices."
+      - "Conducted code reviews and collaborated with team members to optimize performance and scalability."
+      - "Assisted in troubleshooting and debugging issues reported by QA team and end-users."
+      - "Actively participated in agile ceremonies, including sprint planning, daily stand-ups, and retrospective meetings."
+certifications:
+  - "Certified Software Quality Assurance Professional (ISTQB)"
+  - Responsive Web Design (freecodeCAmp)
+languages:
+  - "Fluent in Spanish (Native)"
+  - "Proficient in English"
